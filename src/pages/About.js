@@ -19,7 +19,7 @@ export default class About extends Component {
           <div className="centered">
             <div className="name_title">Jandel Rodríguez Vázquez</div>
             <div className="brief_description">
-              I am a rising junior at University of Puerto Rico - Mayagües Campus, who is majoring in Computer Science and Engineering. 
+              I am a rising junior at University of Puerto Rico - Mayagüez Campus, who is majoring in Computer Science and Engineering. 
             </div>
           </div>
         </div>
